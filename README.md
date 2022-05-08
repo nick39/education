@@ -1,2 +1,2 @@
 # education
-Projects fro education
+Projects for education
